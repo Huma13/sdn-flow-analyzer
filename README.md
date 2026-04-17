@@ -39,7 +39,7 @@ python3 pox.py log.level --DEBUG flow_analyzer
 **Terminal 2 - Topology:**
 ```bash
 sudo python3 topology.py
-
+```
 ## Test Scenarios
 
 | # | Test | Command | Expected Result |
@@ -57,7 +57,12 @@ sudo python3 topology.py
 - Flow tables show match+action entries with idle timeouts
 ## Proof of Execution
 
-Attached in "screenshots" folder
+![Allowed](./screenshots/allowed.png)
+![Blocked](./screenshots/blocked.png)
+![Flow](./screenshots/flow.png)
+![Iperf](./screenshots/iperf.png)
+![Ping](./screenshots/pingall.png)
+![POX](./screenshots/pox.png)
 
 ## References
 - POX Controller: https://github.com/noxrepo/pox
