@@ -56,12 +56,8 @@ sudo python3 topology.py
 - Controller terminal shows per-switch packet_in logs
 - Flow tables show match+action entries with idle timeouts
 ## Proof of Execution
-allowed.png
-blocked.png
-flow.png
-iperf.png
-pingall.png
-pox.png
+
+Attached in "screenshots" folder
 
 ## References
 - POX Controller: https://github.com/noxrepo/pox
