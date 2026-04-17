@@ -57,20 +57,12 @@ sudo python3 topology.py
 - Flow tables show match+action entries with idle timeouts
 ## Proof of Execution
 
-<p align="center">
-  <img src="screenshots/allowed.png" width="45%">
-  <img src="screenshots/blocked.png" width="45%">
-</p>
-
-<p align="center">
-  <img src="screenshots/flow.png" width="45%">
-  <img src="screenshots/iperf.png" width="45%">
-</p>
-
-<p align="center">
-  <img src="screenshots/pingall.png" width="45%">
-  <img src="screenshots/pox.png" width="45%">
-</p>
+![Allowed](./screenshots/allowed.png)
+![Blocked](./screenshots/blocked.png)
+![Flow](./screenshots/flow.png)
+![Iperf](./screenshots/iperf.png)
+![Ping](./screenshots/pingall.png)
+![POX](./screenshots/pox.png)
 
 ## References
 - POX Controller: https://github.com/noxrepo/pox
