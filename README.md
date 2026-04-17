@@ -56,18 +56,8 @@ sudo python3 topology.py
 - Controller terminal shows per-switch packet_in logs
 - Flow tables show match+action entries with idle timeouts
 ## Proof of Execution
+<img width="1550" height="540" alt="PHOTO-2026-04-17-01-58-41" src="https://github.com/user-attachments/assets/22e2609f-c40a-4e21-8a78-329facff4eae" />
 
-![Screenshot 1](https://github.com/user-attachments/assets/7fe501b3-e7d6-4596-b5cd-ad3fa6173304)
-
-![Screenshot 2](https://github.com/user-attachments/assets/79a7772d-9d43-48ec-bb1b-fd8e56b21203)
-
-![Screenshot 3](https://github.com/user-attachments/assets/ed5ce0d4-b1cf-4011-93bd-4cddbd993d25)
-
-![Screenshot 4](https://github.com/user-attachments/assets/c1f544aa-c511-4ae8-87a0-9d93a8fb1466)
-
-![Screenshot 5](https://github.com/user-attachments/assets/69ab7d11-1e54-4fc4-8afa-4042bd119efa)
-
-![Screenshot 6](https://github.com/user-attachments/assets/55552601-3bea-45a2-8402-9e7f4eede42a)
 ## References
 - POX Controller: https://github.com/noxrepo/pox
 - Mininet: http://mininet.org
